@@ -1,0 +1,7 @@
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.exe.config
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.exe
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.pdb
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.csproj.AssemblyReference.cache
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.csproj.CoreCompileInputs.cache
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.exe
+C:\MyWorkspaces\GitWorkSpaces\Testproject\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.pdb
